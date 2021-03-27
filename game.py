@@ -1,6 +1,3 @@
-
-
-
 from random import randint
 
 from gameComponents import gameVars, winLose, comp
